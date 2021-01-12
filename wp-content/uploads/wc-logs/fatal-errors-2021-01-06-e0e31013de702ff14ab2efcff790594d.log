@@ -1,0 +1,88 @@
+2021-01-06T14:56:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_price() in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:57
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 57
+
+2021-01-06T14:59:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_price() in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:57
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 57
+
+2021-01-06T14:59:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_price() in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:57
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 57
+
+2021-01-06T15:01:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_price() in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:57
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 57
+
+2021-01-06T15:01:55+00:00 CRITICAL Uncaught Error: Call to undefined function the_price() in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:57
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 57
+
+2021-01-06T15:02:13+00:00 CRITICAL Uncaught Error: Call to undefined function get_price() in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:57
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 57
+
+2021-01-06T15:02:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_price() in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:57
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 57
+
+2021-01-06T15:02:54+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_get_price() in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:57
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 57
+
+2021-01-06T15:04:08+00:00 CRITICAL Uncaught Error: Call to undefined function get_regular_price() in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:57
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 57
+
+2021-01-06T15:04:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_regular_price() in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:57
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 57
+
+2021-01-06T15:04:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_sale_price() in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:57
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 57
+

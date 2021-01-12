@@ -1,0 +1,42 @@
+2021-01-08T14:43:19+00:00 CRITICAL syntax error, unexpected '*', expecting end of file, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/functions.php, na linha 30
+
+2021-01-08T14:43:30+00:00 CRITICAL syntax error, unexpected '*', expecting end of file, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/functions.php, na linha 30
+
+2021-01-08T14:43:37+00:00 CRITICAL syntax error, unexpected '*', expecting end of file, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/functions.php, na linha 30
+
+2021-01-08T14:43:45+00:00 CRITICAL syntax error, unexpected '*', expecting end of file, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/functions.php, na linha 30
+
+2021-01-08T17:08:43+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:93
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 93
+
+2021-01-08T17:20:29+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:93
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 93
+
+2021-01-08T17:21:31+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:90
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 90
+
+2021-01-08T18:13:36+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php:133
+Stack trace:
+#0 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-includes/template-loader.php(106): include()
+#1 /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-blog-header.php(19): require_once('/Users/arthurba...')
+#2 /Users/arthurbarcellos/Projects/Sites/test-front-end/index.php(17): require('/Users/arthurba...')
+#3 {main}
+  thrown, em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 133
+
+2021-01-08T23:03:04+00:00 CRITICAL syntax error, unexpected 'the_title' (T_STRING), em /Users/arthurbarcellos/Projects/Sites/test-front-end/wp-content/themes/meutema/front-page.php, na linha 57
+
